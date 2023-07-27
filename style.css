@@ -1,0 +1,26 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travle_MainDiv{
+    border:1px solid lightpink;
+}
+.travle_MainDiv img{
+    width:100%;
+}
+.travle_MainDiv h5 , .travle_MainDiv p{
+    margin:20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom:15px ;
+}
+.movie_head i{
+    float:right ;
+}
+.movie_text span{
+    color: orange;
+}
